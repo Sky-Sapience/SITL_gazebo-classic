@@ -15,7 +15,7 @@
     <include>
       <uri>model://aruco_apriltag</uri>
       <!-- x y z roll pitch yaw -->
-      <pose>0 0 0.1 0 0 0</pose>
+      <pose>0 0 0.046 0 0 0</pose>
     </include>
     <physics name='default_physics' default='0' type='ode'>
       <gravity>0 0 -9.8066</gravity>
